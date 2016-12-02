@@ -1,10 +1,8 @@
 {
   "name": "timelion-random",
-  "version": "0.1.0",
+  "version": "kibana",
   "kibanas": [
-    "5.0.0-alpha2",
-    "5.0.0-alpha3",
-    "5.0.0-alpha4"
+    "5.0.0",
   ],
   "description": "Weeeeee",
   "main": "gulpfile.js",
